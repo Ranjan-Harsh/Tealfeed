@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className="box">
       <h1 className="header">simple-code-editor</h1>
-      <a className="github-button" href="https://github.com/Ranjan-Harsh">
+      <a className="github-button" href="https://github.com/Ranjan-Harsh/Tealfeed">
       GitHub
       </a>
       <CodeEditor />
