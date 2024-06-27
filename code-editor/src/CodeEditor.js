@@ -1,5 +1,3 @@
-// src/CodeEditor.js
-
 import React, { useState } from 'react';
 import { Highlight, themes } from 'prism-react-renderer';
 import './CodeEditor.css';
